@@ -1,0 +1,75 @@
+<resources>
+    <string name="home">My Weather</string>
+    <string name="add_location">Set location</string>
+    <array name="locations">
+        <item>Aberdeen</item>
+        <item>Armagh</item>
+        <item>Bangor</item>
+        <item>Bath</item>
+        <item>Belfast</item>
+        <item>Birmingham</item>
+        <item>Bradford</item>
+        <item>Brighton</item>
+        <item>Bristol</item>
+        <item>Cambridge</item>
+        <item>Canterbury</item>
+        <item>Cardiff</item>
+        <item>Carlisle</item>
+        <item>Chelmsford</item>
+        <item>Chester</item>
+        <item>Chichester</item>
+        <item>Coventry</item>
+        <item>Derby</item>
+        <item>Derry</item>
+        <item>Dundee</item>
+        <item>Durham</item>
+        <item>Edinburgh</item>
+        <item>Ely</item>
+        <item>Exeter</item>
+        <item>Glasgow</item>
+        <item>Gloucester</item>
+        <item>Hereford</item>
+        <item>Inverness</item>
+        <item>Lancaster</item>
+        <item>Leeds</item>
+        <item>Lichfield</item>
+        <item>Lincoln</item>
+        <item>Lisburn</item>
+        <item>Liverpool</item>
+        <item>London</item>
+        <item>Manchester</item>
+        <item>Newcastle upon Tyne</item>
+        <item>Newport</item>
+        <item>Newry</item>
+        <item>Norwich</item>
+        <item>Nottingham</item>
+        <item>Oxford</item>
+        <item>Perth</item>
+        <item>Peterborough</item>
+        <item>Plymouth</item>
+        <item>Portsmouth</item>
+        <item>Preston</item>
+        <item>Ripon</item>
+        <item>St Albans</item>
+        <item>St Asaph</item>
+        <item>St David\'s</item>
+        <item>Salford</item>
+        <item>Salisbury</item>
+        <item>Sheffield</item>
+        <item>Southampton</item>
+        <item>Stirling</item>
+        <item>Stone-on-Trent</item>
+        <item>Sunderland</item>
+        <item>Swansea</item>
+        <item>Truro</item>
+        <item>Wakefield</item>
+        <item>Wells</item>
+        <item>Westminster</item>
+        <item>Winchester</item>
+        <item>Wolverhampton</item>
+        <item>Worcester</item>
+        <item>York</item>
+    </array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+</resources>

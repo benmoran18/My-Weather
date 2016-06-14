@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Refresh"
+        android:id="@+id/action_refresh"
+        android1:showAsAction="always"
+        android:icon="@drawable/refresh" />
+
+    <item
+        android:title="Set Location..."
+        android:id="@+id/action_set_location"
+        android1:showAsAction="always"
+        android:icon="@drawable/set_location" />
+
+</menu>
