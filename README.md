@@ -1,2 +1,2 @@
-# My-Weather
+# My Weather
 Android weather app
